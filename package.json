@@ -45,7 +45,7 @@
     "pug": "^2.0.4",
     "request": "^2.88.0",
     "socket.io": "^2.3.0",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "vhost": "^3.0.2",
     "yards": "^0.1.4",
     "yargs": "^15.1.0"
